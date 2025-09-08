@@ -226,10 +226,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+1. **Clone the Repository**: Clone this project repository from GitHub (if hosted).  
+2. **Set Up the Database**: Run the SQL scripts to create and populate the database.  
+3. **Run the Queries**: Execute the provided SQL queries to perform analysis.  
+4. **Explore and Modify**: Modify queries to explore additional insights or answer new business questions.  
 
 
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/sai-santhosh-905998293)
